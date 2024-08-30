@@ -1,5 +1,5 @@
 ---
-title: Qing Li
+title: Yixin Guo
 anchor_id: people-qingli
 image: /images/qingli.jpeg
 image_url: people.html#people-qingli
