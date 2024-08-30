@@ -2698,12 +2698,12 @@ input, select, textarea {
 			}
 
 				#banner .content .button:hover {
-					color: #e4e7e5;
+					color: #00ff55;
 					border-color: rgba(242, 243, 242, 0.55);
 				}
 
 				#banner .content .button:active {
-					color: #fff;
+					color: #000000;
 					border-color: #d8dad8;
 				}
 
@@ -2711,8 +2711,8 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		border-top: solid 5px #b1ddab;
-		border-bottom: solid 5px #c1cac5;
+		border-top: solid 5px #2600fb;
+		border-bottom: solid 5px #ff0000;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
