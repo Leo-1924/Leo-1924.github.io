@@ -5,8 +5,6 @@ tab: index
 layout: about
 ---
 
-Some changes.
-
-We do not study the physics of various processes at the air-sea interface, such as boundary layer turbulence, ocean surface waves, and the resulting ocean mixing, aiming not only at a better understanding of such processes themselves, but also insights into the effects of such small-scale processes on the large-scale weather and climate. To do that, we conduct large eddy simulations of ocean boundary layer turbluence under complex conditions including the influence of ocean surface waves; we develop physically-based parameterizations to represent the effects of small-scale processes on large-scale processes in climate models; and we assess their impact on the regional and global climate using idealized and realistic climate simulations and projections. We also explore novel approaches to improve the efficiency of numerical models for studying the interactions between physical processes across scales, such as GPU-accelerated computing and multiscale modeling.
+农业和化石燃料燃烧的活性氮排放（氨NH3、氮氧化物NOx、氧化亚氮N2O、硝态氮NO3-）对细颗粒物PM2.5、臭氧O3、水体富营养化和气候变化贡献显著。如何在满足食物能源需求的同时,有效治理活性氮污染，是研究组跨学科研究的重点，也是实现清洁空气、碳中和、农业绿色发展等重大国家战略目标亟需回答的科学问题。
 
 Interested in joining us? See [here](joinus.html) for oppotunities for postgraduate students and postdocs.

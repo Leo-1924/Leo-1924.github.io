@@ -2698,7 +2698,7 @@ input, select, textarea {
 			}
 
 				#banner .content .button:hover {
-					color: #00ff55;
+					color: #000000ce;
 					border-color: rgba(242, 243, 242, 0.55);
 				}
 
@@ -2711,8 +2711,8 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		border-top: solid 5px #2600fb;
-		border-bottom: solid 5px #ff0000;
+		border-top: solid 5px #1500ffd3;
+		border-bottom: solid 5px #1500ffd3;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
@@ -2953,7 +2953,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background-color: rgba(21, 38, 23, 0.8);
+				background-color: rgba(11, 70, 232, 0.639);
 				background-image: url("images/overlay.png");
 			}
 
