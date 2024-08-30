@@ -1,8 +1,8 @@
 ---
 title: Yixin Guo
-anchor_id: people-qingli
-image: /images/qingli.jpeg
-image_url: people.html#people-qingli
+anchor_id: people-yixinguo
+image: /images/yixinguo.jpg
+image_url: people.html#people-yixinguo
 language: en
 order: 1
 actions:
