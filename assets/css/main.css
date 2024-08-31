@@ -1832,7 +1832,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #120468;
+		background: #240bc7;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1854,7 +1854,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #20088d;
+			background: #c1edbb;
 		}
 
 		input[type="button"]:active,
@@ -1987,7 +1987,7 @@ input, select, textarea {
 					color: #39ccbb;
 				}
 
-				ul.actions li:hover a.ai-scopus-square {
+				ul.actions li:hover a.ai-publons-square {
 					color: #336699;
 				}
 
@@ -2085,7 +2085,7 @@ input, select, textarea {
 					background-color: #39ccbb
 				}
 
-				ul.contact li:hover a.ai-scopus {
+				ul.contact li:hover a.ai-publons {
 					background-color: #336699
 				}
 
