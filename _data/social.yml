@@ -18,4 +18,7 @@
 #   title: Publons
 #   icon: ai ai-publons
 #   url: https://publons.com/researcher/1330265
-
+- Scopus:
+  title: Scopus
+  icon: ai ai-Scopus
+  url: https://www.scopus.com/authid/detail.uri?authorId=57194548077
