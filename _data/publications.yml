@@ -13,34 +13,6 @@
     Although reactive nitrogen (Nr) emissions from food and energy production contribute to multi-dimensional environmental damages, integrated management of Nr is still lacking owing to unclear future mitigation potentials and benefits. Here, we find that by 2050, high-ambition compared to low-ambition N interventions reduce global ammonia and nitrogen oxide emissions by 21 and 22 TgN/a, respectively, equivalent to 40 and 52% of their 2015 levels. This would mitigate population-weighted PM2.5 by 6 g/m3 and avoid premature deaths by 817 k (16%), mitigate ozone by 4 ppbv, avoid premature deaths by 252k (34%) and crop yield losses by 122 million tons (4.3%), and decrease terrestrial ecosystem areas exceeding critical load by 420 Mha (69%). Without nitrogen interventions, most environmental damages examined will deteriorate between 2015 and 2050; Africa and Asia are the most vulnerable but also benefit the most from interventions. Nitrogen interventions support sustainable development goals related to air, health, and ecosystems.
 
 
-
-
-- fan2024gmd:
-  type: article
-  author: Xiaoyu Fan, Baylor Fox-Kemper, Nobuhiro Suzuki, <strong>Qing Li</strong>, Patrick Marchesiello, Francis Auclair, Peter P. Sullivan, Paul S. Hall
-  title: Comparison of the coastal and regional ocean community model (CROCO) and NCAR-LES in non-hydrostatic simulations
-  year: 2024
-  volume: 17
-  pages: 4095-4113
-  url: https://doi.org/10.5194/gmd-17-4095-2024
-  journal: Geoscientific Model Development
-  pdf: https://gmd.copernicus.org/articles/17/4095/2024/gmd-17-4095-2024.pdf
-  abstract: >
-    Advances in coastal modeling and computation provide the opportunity to examine non-hydrostatic and compressible fluid effects at very small scales, but the cost of these new capabilities and the accuracy of these models versus trusted non-hydrostatic codes has yet to be determined. Here the Coastal and Regional Ocean COmmunity model (CROCO, v1.2) and the National Center for Atmospheric Research large-eddy simulation (NCAR-LES) model are compared, with a focus on their simulation accuracy and computational efficiency. These models differ significantly in numerics and capabilities, so they are run on common classic problems of surface-forced, boundary-layer turbulence. In terms of accuracy, we compare turbulence statistics, including the effect of the explicit subgrid-scale (SGS) parameterization, the effect of the second (dilatational) viscosity, and the sensitivity to the speed of sound, which is used as part of the CROCO compressible turbulence formulation. To gauge how far CROCO is from the NCAR-LES, we first compare the NCAR-LES with two other non-hydrostatic Boussinesq approximation LES codes (PALM and Oceananigans), defining the notion and magnitude of accuracy for the LES and CROCO comparison. To judge efficiency of CROCO, strong and weak scaling simulation sets vary different problem sizes and workloads per processor, respectively. Additionally, the effects of 2D decomposition of CROCO and NCAR-LES and supercomputer settings are tested. In summary, the accuracy comparison between CROCO and the NCAR-LES is similar to the NCAR-LES compared to other LES codes. However, the additional capabilities of CROCO (e.g., nesting, non-uniform grid, and realism of ocean configuration in general) and its weakly compressible formulation come with roughly an order of magnitude of additional costs, despite efforts to reduce them by adjusting the second viscosity and speed of sound as far as accuracy allows. However, a new variant of the non-hydrostatic CROCO formulation is currently undergoing prototype testing and should enable faster simulations by releasing the stability constrain by the free surface. Overall, when the additional features of CROCO are needed (nesting, complex topography, etc.) additional costs are justified, while in idealized settings (a rectangular domain with periodic boundary conditions) the NCAR-LES is faster in arriving at nearly the same result.
-
-- garanaik2024james:
-  type: article
-  author: Amrapalli Garanaik, Filipe Pereira, Katherine Smith, Rachel Robey, <strong>Qing Li</strong>, Brodie Pearson, and Luke Van&nbsp;Roekel
-  year: 2024
-  url: https://doi.org/10.1029/2023MS003846
-  title: 	A new hybrid mass-flux/high-order turbulence closure for ocean vertical mixing
-  journal: Journal of Advances in Modeling Earth Systems
-  volume: 16
-  pages: e2023MS003846
-  pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023MS003846
-  abstract: >
-    While various parameterizations of vertical turbulent fluxes at different levels of complexity have been proposed, each has its own limitations. For example, simple first-order closure schemes such as the K-Profile Parameterization (KPP) lack energetic constraints; two-equation models like <i>k</i>-&epsilon; directly solve an equation for the turbulent kinetic energy but do not account for non-diffusive fluxes, and high-order closures that include the high-order transport terms are computationally expensive. To address these, we extend the Assumed-Distribution Higher-Order Closure (ADC) framework originally proposed for the atmospheric boundary layer and apply it to the ocean surface boundary layer. By assuming a probability distribution function relationship between the vertical velocity and tracers, all second-order and higher-order moments are exactly constructed and turbulence closure is achieved in the ADC scheme. In addition, this ADC parameterization has full energetic constraints and includes non-diffusive fluxes without the computational cost of a full higher-order closure scheme. We have tested the ADC scheme against a combination of large eddy simulation (LES), KPP, and <i>k</i>-&epsilon; for surface buoyancy-driven convective mixing and found that the ADC scheme is robust with different vertical resolutions and compares well to the LES results.
-
 # - shao2022grl:
 #   type: article
 #   author: Mingming Shao, Yan Wang, <strong>Qing Li</strong>, Jian Zhao, and Xia Chai
