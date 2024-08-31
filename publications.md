@@ -5,13 +5,13 @@ tab: publications
 layout: bibliography
 sections:
   - section1:
-    title: Refereed papers
+    title: 
     data: publications
-  - section2:
-    title: PhD dissertation
-    data: dissertations
-  - section3:
-    title: Archived dataset
-    data: datasets
+  # - section2: 
+  #   title: 2023
+  #   data: dissertations
+  # - section3:
+  #   title: Archived dataset
+  #   data: datasets
 ---
 
