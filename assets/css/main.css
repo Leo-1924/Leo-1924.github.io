@@ -1987,7 +1987,7 @@ input, select, textarea {
 					color: #39ccbb;
 				}
 
-				ul.actions li:hover a.ai-publons-square {
+				ul.actions li:hover a.ai-scopus-square {
 					color: #336699;
 				}
 
@@ -2085,7 +2085,7 @@ input, select, textarea {
 					background-color: #39ccbb
 				}
 
-				ul.contact li:hover a.ai-publons {
+				ul.contact li:hover a.ai-scopus {
 					background-color: #336699
 				}
 

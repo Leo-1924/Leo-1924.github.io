@@ -5,16 +5,20 @@
 - orcid:
   title: ORCID
   icon: ai ai-orcid
-  url: https://orcid.org/0000-0002-6464-0977
+  url: https://orcid.org/0000-0003-4958-7044
 - googlescholar:
   title: Google Scholar
   icon: ai ai-google-scholar
-  url: https://scholar.google.com/citations?user=nGz1OOwAAAAJ&hl=en
+  url: https://scholar.google.com/citations?user=xum1KPAAAAAJ&hl=en
 - researchgate:
   title: ResearchGate
   icon: ai ai-researchgate
-  url: https://www.researchgate.net/profile/Qing_Li75
-- publons:
-  title: Publons
-  icon: ai ai-publons
-  url: https://publons.com/researcher/1330265
+  url: https://www.researchgate.net/profile/Yixin-Guo-6
+# - publons:
+#   title: Publons
+#   icon: ai ai-publons
+#   url: https://publons.com/researcher/1330265
+ - scopus:
+   title: Scopus
+   icon: ai ai-scopus
+   url: https://www.scopus.com/authid/detail.uri?authorId=57194548077

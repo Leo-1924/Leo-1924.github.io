@@ -202,10 +202,10 @@
 .ai-piazza-square:before {
   content: "\e90c";
 }
-.ai-publons:before {
+.ai-scopus:before {
   content: "\e937";
 }
-.ai-publons-square:before {
+.ai-scopus-square:before {
   content: "\e94e";
 }
 .ai-pubmed:before {
