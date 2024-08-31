@@ -91,7 +91,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #0f047e;
+		background: #0b0458;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1832,7 +1832,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #120468;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1854,7 +1854,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #c1edbb;
+			background: #20088d;
 		}
 
 		input[type="button"]:active,
