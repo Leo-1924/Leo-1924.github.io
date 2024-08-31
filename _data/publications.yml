@@ -13,7 +13,7 @@
     Although reactive nitrogen (Nr) emissions from food and energy production contribute to multi-dimensional environmental damages, integrated management of Nr is still lacking owing to unclear future mitigation potentials and benefits. Here, we find that by 2050, high-ambition compared to low-ambition N interventions reduce global ammonia and nitrogen oxide emissions by 21 and 22 TgN/a, respectively, equivalent to 40 and 52% of their 2015 levels. This would mitigate population-weighted PM2.5 by 6 g/m3 and avoid premature deaths by 817 k (16%), mitigate ozone by 4 ppbv, avoid premature deaths by 252k (34%) and crop yield losses by 122 million tons (4.3%), and decrease terrestrial ecosystem areas exceeding critical load by 420 Mha (69%). Without nitrogen interventions, most environmental damages examined will deteriorate between 2015 and 2050; Africa and Asia are the most vulnerable but also benefit the most from interventions. Nitrogen interventions support sustainable development goals related to air, health, and ecosystems.
 
 
-guo2024NatureGeoscience:
+- guo2024NatureGeoscience:
   type: article
   author: Da Pan, Denise L. Mauzerall, Rui Wang, Xuehui Guo, Melissa Puchalski, <strong>Yixin Guo</strong>, Shaojie Song, Daniel Tong, Amy P. Sullivan, Bret A. Schichtel, Jeffrey L. Collett Jr, Mark A. Zondlo 
   title: Regime shift in secondary inorganic aerosol formation and nitrogen deposition in the rural United States
@@ -26,7 +26,7 @@ guo2024NatureGeoscience:
   abstract: >
     Secondary inorganic aerosols play an important role in air pollution and climate change, and their formation modulates the atmospheric deposition of reactive nitrogen (including oxidized and reduced nitrogen), thus impacting the nitrogen cycle. Large-scale and long-term analyses of secondary inorganic aerosol formation based on model simulations have substantial uncertainties. Here we improve constraints on secondary inorganic aerosol formation using decade-long in situ observations of aerosol composition and gaseous precursors from multiple monitoring networks across the United States. We reveal a shift in the secondary inorganic aerosol formation regime in the rural United States between 2011 and 2020, making rural areas less sensitive to changes in ammonia concentrations and shortening the effective atmospheric lifetime of reduced forms of reactive nitrogen. This leads to potential increases in reactive nitrogen deposition near ammonia emission hotspots, with ecosystem impacts warranting further investigation. Ammonia (NH3), a critical but not directly regulated precursor of fine particulate matter in the United States, has been increasingly scrutinized to improve air quality. Our findings, however, show that controlling NH3 became significantly less effective for mitigating fine particulate matter in the rural United States. We highlight the need for more collocated aerosol and precursor observations for better characterization of secondary inorganic aerosols formation in urban areas.
 
-guo2023EST:
+- guo2023EST:
   type: article
   author: Jiayu Xu, Mengran Lu, <strong>Yixin Guo</strong>, Lin Zhang, Youfan Chen, Zehui Liu, Mi Zhou, Weili Lin, WeiWei Pu, Zhiqiang Ma, Yu Song, Yuepeng Pan, Lei Liu, Dongsheng Ji
   title: Summertime Urban Ammonia Emissions May Be Substantially Underestimated in Beijing, China
@@ -66,18 +66,6 @@ guo2023EST:
   abstract: >
     Effects of wind and fresh water on the Atlantic meridional overturning circulation (AMOC) are investigated using a fully coupled climate model. The AMOC can change significantly when perturbed by either wind stress or freshwater flux in the North Atlantic. This study focuses on wind stress effect. Our model results show that the wind forcing is crucial in maintaining the AMOC. Reducing wind forcing over the ocean can cause immediately weakening of the vertical salinity diffusion and convection in the mid-high latitudes Atlantic, resulting in an enhancement of vertical salinity stratification that restrains the deep water formation there, triggering a slowdown of the thermohaline circulation. As the thermohaline circulation weakens, the sea ice expands southward and melts, providing the upper ocean with fresh water that weakens the thermohaline circulation further. The wind perturbation experiments suggest a positive feedback between sea-ice and thermohaline circulation strength, which can eventually result in a complete shutdown of the AMOC. This study also suggests that sea-ice variability may be also important to the natural AMOC variability on decadal and longer timescales.
 
-- yang2015scirep:
-  type: article
-  author: Haijun Yang, Yingying Zhao, Zhengyu Liu, <strong>Qing Li</strong>, Feng He, and Qiong Zhang
-  year: 2015
-  url: http://dx.doi.org/10.1038/srep16661
-  title: Heat transport compensation in atmosphere and ocean over the past 22,000 years
-  journal: Scientific Reports
-  volume: 5
-  pages: 16661
-  pdf: https://www.nature.com/articles/srep16661.pdf
-  abstract: >
-    The Earth’s climate has experienced dramatic changes over the past 22,000 years; however, the total meridional heat transport (MHT) of the climate system remains stable. A 22,000-year-long simulation using an ocean-atmosphere coupled model shows that the changes in atmosphere and ocean MHT are significant but tend to be out of phase in most regions, mitigating the total MHT change, which helps to maintain the stability of the Earth’s overall climate. A simple conceptual model is used to understand the compensation mechanism. The simple model can reproduce qualitatively the evolution and compensation features of the MHT over the past 22,000 years. We find that the global energy conservation requires the compensation changes in the atmosphere and ocean heat transports. The degree of compensation is mainly determined by the local climate feedback between surface temperature and net radiation flux at the top of the atmosphere. This study suggests that an internal mechanism may exist in the climate system, which might have played a role in constraining the global climate change over the past 22,000 years.
 
 - yang2015clidyn:
   type: article
