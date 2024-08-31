@@ -1,7 +1,7 @@
-- github:
-  title: GitHub
-  icon: brands fa-github
-  url: https://github.com/qingli411
+# - github:
+#   title: GitHub
+#   icon: brands fa-github
+#   url: https://github.com/qingli411
 - orcid:
   title: ORCID
   icon: ai ai-orcid
