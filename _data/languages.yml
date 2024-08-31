@@ -13,7 +13,7 @@ en:
       label: Research
     publications:
       label: Publications
-    # presentations:
-    #   label: Presentations
+     presentations:
+      label: Presentations
     joinus:
       label: Join us
