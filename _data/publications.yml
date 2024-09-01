@@ -40,8 +40,44 @@
     Ammonia (NH3) is critical to the nitrogen cycle and PM2.5 formation, yet a great deal of uncertainty exists in its urban emission quantifications. Model-underestimated NH3 concentrations have been reported for cities, yet few studies have provided an explanation. Here, we explore reasons for severe WRF-Chem model underestimations of NH3 concentrations in Beijing in August 2018, including simulated gas-particle partitioning, meteorology, regional transport, and emissions, using spatially refined (3 km resolution) NH3 emission estimates in the agricultural sector for Beijing-Tianjin-Hebei and in the traffic sector for Beijing. We find that simulated NH3 concentrations are significantly lower than ground-based and satellite observations during August in Beijing, while wintertime underestimations are much more moderate. Further analyses and sensitivity experiments show that such discrepancies cannot be attributed to factors other than biases in NH3 emissions. Using site measurements as constraints, we estimate that both agricultural and non-agricultural NH3 emission totals in Beijing shall increase by ∼5 times to match the observations. Future research should be performed to allocate underestimations to urban fertilizer, power, traffic, or residential sources. Dense and regular urban NH3 observations are necessary to constrain and validate bottom-up inventories and NHx simulation.
 
 
+- guo2023PNAS:
+  type: article
+  author: Lei Liua , Wen Xub, Zhang Wenb , Pu Liua, Hang Xua, Sheng Liua, Xiankai Luc , Buqing Zhongc , Yixin Guod , Xiao Lue, Yuanhong Zhaof, Xiuying Zhangg, Songhan Wangh, Peter M. Vitouseki , Xuejun Liub
+  title: Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers
+  year: 2023
+  volume: 120
+  pages: e2221459120 ~ e2221459120
+  url: https://www.pnas.org/doi/abs/10.1073/pnas.2221459120
+  journal:
+  pdf: https://www.pnas.org/doi/epub/10.1073/pnas.2221459120
+  abstract: >
+    Growing population and consumption pose unprecedented demands on food production. However, ammonia emissions mainly from food systems increase oceanic nitrogen deposition contributing to eutrophication. Here, we developed a long-term oceanic nitrogen deposition dataset (1970 to 2018) with updated ammonia emissions from food systems, evaluated the impact of ammonia emissions on oceanic nitrogen deposition patterns, and discussed the potential impact of nitrogen fertilizer overuse. Based on the chemical transport modeling approach, oceanic ammonia-related nitrogen deposition increased by 89% globally between 1970 and 2018, and now, it exceeds oxidized nitrogen deposition by over 20% in coastal regions including China Sea, India Coastal, and Northeastern Atlantic Shelves. Approximately 38% of agricultural nitrogen fertilizer was excessive, which corresponds to 15% of global oceanic ammonia-related nitrogen deposition. Policymakers and water quality managers need to pay increasingly more attention to ammonia associated with food production if the goal of reducing coastal nitrogen pollution is to be achieved for Sustainable Development Goals.
 
+- guo2023naturecommunications:
+  type: article
+  author: Zehui Liu, Harald E. Rieder, Christian Schmidt, Monika Mayer, Yixin Guo, Wilfried Winiwarter , Lin Zhang
+  title: Optimal reactive nitrogen control pathways identified for cost-effective PM2. 5 mitigation in Europe
+  year: 2023
+  volume: 14
+  pages: 4246 - 4246
+  url: https://www.nature.com/articles/s41467-023-39900-9
+  journal: Nature Communications
+  pdf: https://www.nature.com/articles/s41467-023-39900-9.pdf
+  abstract: >
+    Excess reactive nitrogen (Nr), including nitrogen oxides (NOx) and ammonia (NH3), contributes strongly to fine particulate matter (PM2.5) air pollution in Europe, posing challenges to public health. Designing cost-effective Nr control roadmaps for PM2.5 mitigation requires considering both mitigation efficiencies and implementation costs. Here we identify optimal Nr control pathways for Europe by integrating emission estimations, air quality modeling, exposure-mortality modeling, Nr control experiments and cost data. We find that phasing out Nr emissions would reduce PM2.5 by 2.3 ± 1.2 μg·m−3 in Europe, helping many locations achieve the World Health Organization (WHO) guidelines and reducing PM2.5-related premature deaths by almost 100 thousand in 2015. Low-ambition NH3 controls have similar PM2.5 mitigation efficiencies as NOx in Eastern Europe, but are less effective in Western Europe until reductions exceed 40%. The efficiency for NH3 controls increases at high-ambition reductions while NOx slightly decreases. When costs are considered, strategies for both regions uniformly shift in favor of NH3 controls, as NH3 controls up to 50% remain 5-11 times more cost-effective than NOx per unit PM2.5 reduction, emphasizing the priority of NH3 control policies for Europe.
 
+- guo2023Nature Food:
+  type: article
+  author: Yixin Guo, Haiyue Tan, Lin Zhang, Gang Liu, Mi Zhou, Julius Vira, Peter G. Hess, Xueying Liu, Fabien Paulot , Xuejun Liu 
+  title: Global food loss and waste embodies unrecognized harms to air quality and biodiversity hotspots
+  year: 2023
+  volume: 4
+  pages: 686 - 698 
+  url: https://www.nature.com/articles/s43016-023-00810-0
+  journal: Nature Food
+  pdf: https://www.nature.com/articles/s43016-023-00810-0.pdf
+  abstract: >
+    Global food loss and waste (FLW) undermines the resilience and sustainability of food systems and is closely tied to the United Nation’s Sustainable Development Goals on climate, resource use and food security. Here we reveal strong yet under-discussed interconnections between FLW and two other Sustainable Development Goals of Human Health and Life on Land via the nitrogen cycle. We find that eliminating global FLW in 2015 would have reduced anthropogenic NH3 emissions associated with food production by 11.4 Tg (16%), decreased local PM2.5 concentrations by up to 5 μg m−3 and PM2.5-related years of life lost by 1.5 million years, and mitigated nitrogen critical load exceedances in global biodiversity hotspots by up to 19%. Halving FLW in 2030 will reduce years of life lost by 0.5–0.8 million years and nitrogen deposition by 4.7–6.0 Tg N per year (4%) (range for socioeconomic pathways). Complementary to near-term NH3 mitigation potential via technological measures, our study emphasizes incentivizing FLW reduction efforts from air quality and ecosystem health perspectives.
 
 
 # - shao2022grl:
