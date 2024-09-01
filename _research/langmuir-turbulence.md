@@ -1,10 +1,11 @@
 ---
-title: Langmuir turbulence
-anchor_id: langmuir-turbulence
-image: /images/anisotropy.gif
-image_url: publications.html#li2020prfluid
+title: 方向一：食物系统策略减缓活性氮污染和环境健康影响的潜力
+anchor_id: direction-1
+image: /images/direction1.png
+image_url: ResearchDirectionOne
 language: en
 order: 1
 ---
 
-Langmuir turbulence results from the interaction between the ocean surface waves and the Eulerian currents and background turbulence. See [this video](https://youtu.be/OAOESUrh2FI){:target="_blank"} for an example of Langmuir turbulence seen at the sea surface. It strongly affects the turbulent mixing in the ocean surface boundary layer (OSBL), and therefore the air-sea fluxes of heat, momentum and trace gases, as well as the transport and dispersion of pollutants, nutrients and other tracers. I study the physics of Langmuir turbulence using large eddy simulations (LES) of the wave phase averaged Boussinesq equations. [Here](https://youtu.be/0QcNs5Y8GmM){:target="_blank"} is a movie of the simulated Langmuir turbulence in LES. My research on Langmuir turbulence has been focusing on its distinctive structure from shear and convective turbulence and its effect on the entrainment at the base of the OSBL. This figure is a comparison of the anisotropy between shear turbulence (top panels) and Langmuir turbulence (bottom panels). See more in papers [[6]](publications.html#li2017jpo) and [[11]](publications.html#li2020prfluid). I'm also interested in its interactions with other processes such as submesoscale fronts and eddies.
+食物系统策略减缓活性氮污染和环境健康影响的潜力[Guo et al. Nature Food 2020; One Earth 2022；Nature Food 2023；Ma, Li, Guo et al. Nature Communications 2021] 
+
