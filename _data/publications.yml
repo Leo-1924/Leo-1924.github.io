@@ -42,20 +42,20 @@
 
 - guo2023PNAS:
   type: article
-  author: Lei Liua , Wen Xub, Zhang Wenb , Pu Liua, Hang Xua, Sheng Liua, Xiankai Luc , Buqing Zhongc , Yixin Guod , Xiao Lue, Yuanhong Zhaof, Xiuying Zhangg, Songhan Wangh, Peter M. Vitouseki , Xuejun Liub
+  author: Lei Liu , Wen Xu, Zhang Wen , Pu Liu, Hang Xu, Sheng Liu, Xiankai Lu, Buqing Zhong , <strong>Yixin Guo</strong> , Xiao Lu, Yuanhong Zhao, Xiuying Zhang, Songhan Wang, Peter M. Vitousek , Xuejun Liu
   title: Modeling global oceanic nitrogen deposition from food systems and its mitigation potential by reducing overuse of fertilizers
   year: 2023
   volume: 120
   pages: e2221459120 ~ e2221459120
   url: https://www.pnas.org/doi/abs/10.1073/pnas.2221459120
-  journal:
+  journal: Proceedings of the National Academy of Sciences
   pdf: https://www.pnas.org/doi/epub/10.1073/pnas.2221459120
   abstract: >
     Growing population and consumption pose unprecedented demands on food production. However, ammonia emissions mainly from food systems increase oceanic nitrogen deposition contributing to eutrophication. Here, we developed a long-term oceanic nitrogen deposition dataset (1970 to 2018) with updated ammonia emissions from food systems, evaluated the impact of ammonia emissions on oceanic nitrogen deposition patterns, and discussed the potential impact of nitrogen fertilizer overuse. Based on the chemical transport modeling approach, oceanic ammonia-related nitrogen deposition increased by 89% globally between 1970 and 2018, and now, it exceeds oxidized nitrogen deposition by over 20% in coastal regions including China Sea, India Coastal, and Northeastern Atlantic Shelves. Approximately 38% of agricultural nitrogen fertilizer was excessive, which corresponds to 15% of global oceanic ammonia-related nitrogen deposition. Policymakers and water quality managers need to pay increasingly more attention to ammonia associated with food production if the goal of reducing coastal nitrogen pollution is to be achieved for Sustainable Development Goals.
 
 - guo2023naturecommunications:
   type: article
-  author: Zehui Liu, Harald E. Rieder, Christian Schmidt, Monika Mayer, Yixin Guo, Wilfried Winiwarter , Lin Zhang
+  author: Zehui Liu, Harald E. Rieder, Christian Schmidt, Monika Mayer, <strong>Yixin Guo</strong>, Wilfried Winiwarter , Lin Zhang
   title: Optimal reactive nitrogen control pathways identified for cost-effective PM2. 5 mitigation in Europe
   year: 2023
   volume: 14
@@ -68,7 +68,7 @@
 
 - guo2023Nature Food:
   type: article
-  author: Yixin Guo, Haiyue Tan, Lin Zhang, Gang Liu, Mi Zhou, Julius Vira, Peter G. Hess, Xueying Liu, Fabien Paulot , Xuejun Liu 
+  author: <strong>Yixin Guo</strong>, Haiyue Tan, Lin Zhang, Gang Liu, Mi Zhou, Julius Vira, Peter G. Hess, Xueying Liu, Fabien Paulot , Xuejun Liu 
   title: Global food loss and waste embodies unrecognized harms to air quality and biodiversity hotspots
   year: 2023
   volume: 4
@@ -78,6 +78,21 @@
   pdf: https://www.nature.com/articles/s43016-023-00810-0.pdf
   abstract: >
     Global food loss and waste (FLW) undermines the resilience and sustainability of food systems and is closely tied to the United Nation’s Sustainable Development Goals on climate, resource use and food security. Here we reveal strong yet under-discussed interconnections between FLW and two other Sustainable Development Goals of Human Health and Life on Land via the nitrogen cycle. We find that eliminating global FLW in 2015 would have reduced anthropogenic NH3 emissions associated with food production by 11.4 Tg (16%), decreased local PM2.5 concentrations by up to 5 μg m−3 and PM2.5-related years of life lost by 1.5 million years, and mitigated nitrogen critical load exceedances in global biodiversity hotspots by up to 19%. Halving FLW in 2030 will reduce years of life lost by 0.5–0.8 million years and nitrogen deposition by 4.7–6.0 Tg N per year (4%) (range for socioeconomic pathways). Complementary to near-term NH3 mitigation potential via technological measures, our study emphasizes incentivizing FLW reduction efforts from air quality and ecosystem health perspectives.
+
+- guo2022Science Bulletin:
+  type: article
+  author: Wen Xu, Yuanhong Zhao, Zhang Wen, Yunhua Chang, Yuepeng Pan, Yele Sun, Xin Ma, Zhipeng Sha, Ziyue Li, Jiahui Kang, Lei Liu, Aohan Tang, Kai Wang, Ying Zhang, <strong>Yixin Guo</strong>, Lin Zhang, Lifang Sheng, Xiuming Zhang, Baojing Gu, Yu Song, Martin Van Damme, Lieven Clarisse, Pierre-Francois Coheur, Jeffrey L. Collett, Keith Goulding, Fusuo Zhang, Kebin He, Xuejun Liu
+  title: Increasing importance of ammonia emission abatement in PM2. 5 pollution control
+  year: 2022
+  volume: 67
+  pages: 1745 - 1749 
+  url: https://www.sciencedirect.com/science/article/pii/S209592732200319X?via%3Dihub
+  journal: Science Bulletin
+  pdf: https://pdf.sciencedirectassets.com/315713/1-s2.0-S2095927322X00133/1-s2.0-S209592732200319X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHcaCXVzLWVhc3QtMSJGMEQCIGLm66RXtb05y4Qo965woQo95PcpXTxYQcPvzZ7fEHcWAiAsSJ9zt4%2BHyfrXxpNGje81VKSItnEEVRa1wNXGf%2BhUqCq8BQiQ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMTa8xzxiJ0henZqwYKpAFHoBcVszTgioEAVXhibn6bcMu1x4O9YikdD9uMihLxEv3T9Kve1%2FoDhwRN5jYEVCBsz9BeocC6XzfU3s6bajRzhrKZj3kce4aVeORvdoAogb%2BunfQbDRFGZR%2BM%2B9ur7igRH42l17zFM1R%2B%2FE1%2BsGkYvub1t%2F7WVcvor1dLZe%2FnHrHeTnVNjEWqMHD12d%2BRl6ekX9tbbL%2Btc1Yn1fWH4AlaRfyasHzo9ZOZpX0EOrrtuUB%2BTauLUUm9krXhuPq1BuNHHzL65yLAgvAIA7K3miH9OKW6ygI%2BBzManwDwL%2FE%2BD1eBbuXVd5kpoZho%2BJlPNeEQB5a3j4Im13C7FYk1WHZ2RjzshOpmW4U3Dp6nMr4FHVNwr9ODqmRzRr8%2BmKvrrZxkiu5bljSy3YeyQIBJok6Rpj4YhTFgiPWoAgpeB6092zZZuWcT5XRweDo5KlH%2FW86Yv5IruHiwR78%2FdwD4fIFDnBLQDJ2lorbLgkTEtj4a1axu77hJsgqcwFBbqV%2FzPSYmZ7G1F5CIT0e4BKQOA5xv1rzXmlJkCEY%2BZC%2Brdv4po8boiMWEBJT8UYX%2FFd0keI1o8Qlvfq0CeiLkN%2Fa6EK%2BTxXjJBlq5voLOWQhghWdToJw5yxWTLJLbaUDc9zgai5x6IcmZ0D5FC1fHxNmuE6CyZdadlTG%2BgEzpjJqXPLoLHX4kLHk403hhMiPxIBMe9JR9yPvss8zYZLWfP3kADcuiScR08tkgJygm599Dc4%2BZNJKAUDX8o%2Fnwvrww83nXuxO8poaEBCFAGfcAWStoOO6tbi6zCOE0CkczOaOFkI0gB%2FFtoq8sLAnQXBK082HBrE6DitQ6Z0XdmZeY5KouQEolQXnEKnaQm7Fh03WcyFQFF8wj%2FLRtgY6sgFSCa7i05k2hxKTvB5ss8IM4Wsi71geh30oJOR6S92fgNYtUbPJRdkiIBGoafW7udDn6KqEjns6%2BJuDPfZjpkH4036772YTUqJAAnz7rbij4C8BVfakEcZQ7r7ebIyDA1y%2FpsNZMLJ7mxaXmAZn1eClWEQcC8We04pxiCdFNRyconpVPS8rID76eeCZUcdC8HvlEIujbGyWRtng3c56tz8oE0RC%2BeF%2B6u8rwS8OFK3v6M3e&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240901T145623Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7JL7S6LY%2F20240901%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bcdd35325e8d5f3b954ec06bf8b18d66e5929e5da4a17731255aaa892d2af5d9&hash=adfa57b2fd310216ff490b204ed1d680c1fb583c9cba127d069878ec5447e55d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S209592732200319X&tid=spdf-1faff43c-473b-4ca3-a035-baab14881d65&sid=4bca9d3066eaf6477e2b7e80d12174616429gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d0a5a02045250075b&rr=8bc61b4fedbc847f&cc=cn
+  abstract: >
+    
+
+
 
 
 # - shao2022grl:
