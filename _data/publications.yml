@@ -91,6 +91,50 @@
   pdf: https://pdf.sciencedirectassets.com/315713/1-s2.0-S2095927322X00133/1-s2.0-S209592732200319X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHcaCXVzLWVhc3QtMSJGMEQCIGLm66RXtb05y4Qo965woQo95PcpXTxYQcPvzZ7fEHcWAiAsSJ9zt4%2BHyfrXxpNGje81VKSItnEEVRa1wNXGf%2BhUqCq8BQiQ%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMTa8xzxiJ0henZqwYKpAFHoBcVszTgioEAVXhibn6bcMu1x4O9YikdD9uMihLxEv3T9Kve1%2FoDhwRN5jYEVCBsz9BeocC6XzfU3s6bajRzhrKZj3kce4aVeORvdoAogb%2BunfQbDRFGZR%2BM%2B9ur7igRH42l17zFM1R%2B%2FE1%2BsGkYvub1t%2F7WVcvor1dLZe%2FnHrHeTnVNjEWqMHD12d%2BRl6ekX9tbbL%2Btc1Yn1fWH4AlaRfyasHzo9ZOZpX0EOrrtuUB%2BTauLUUm9krXhuPq1BuNHHzL65yLAgvAIA7K3miH9OKW6ygI%2BBzManwDwL%2FE%2BD1eBbuXVd5kpoZho%2BJlPNeEQB5a3j4Im13C7FYk1WHZ2RjzshOpmW4U3Dp6nMr4FHVNwr9ODqmRzRr8%2BmKvrrZxkiu5bljSy3YeyQIBJok6Rpj4YhTFgiPWoAgpeB6092zZZuWcT5XRweDo5KlH%2FW86Yv5IruHiwR78%2FdwD4fIFDnBLQDJ2lorbLgkTEtj4a1axu77hJsgqcwFBbqV%2FzPSYmZ7G1F5CIT0e4BKQOA5xv1rzXmlJkCEY%2BZC%2Brdv4po8boiMWEBJT8UYX%2FFd0keI1o8Qlvfq0CeiLkN%2Fa6EK%2BTxXjJBlq5voLOWQhghWdToJw5yxWTLJLbaUDc9zgai5x6IcmZ0D5FC1fHxNmuE6CyZdadlTG%2BgEzpjJqXPLoLHX4kLHk403hhMiPxIBMe9JR9yPvss8zYZLWfP3kADcuiScR08tkgJygm599Dc4%2BZNJKAUDX8o%2Fnwvrww83nXuxO8poaEBCFAGfcAWStoOO6tbi6zCOE0CkczOaOFkI0gB%2FFtoq8sLAnQXBK082HBrE6DitQ6Z0XdmZeY5KouQEolQXnEKnaQm7Fh03WcyFQFF8wj%2FLRtgY6sgFSCa7i05k2hxKTvB5ss8IM4Wsi71geh30oJOR6S92fgNYtUbPJRdkiIBGoafW7udDn6KqEjns6%2BJuDPfZjpkH4036772YTUqJAAnz7rbij4C8BVfakEcZQ7r7ebIyDA1y%2FpsNZMLJ7mxaXmAZn1eClWEQcC8We04pxiCdFNRyconpVPS8rID76eeCZUcdC8HvlEIujbGyWRtng3c56tz8oE0RC%2BeF%2B6u8rwS8OFK3v6M3e&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240901T145623Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7JL7S6LY%2F20240901%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bcdd35325e8d5f3b954ec06bf8b18d66e5929e5da4a17731255aaa892d2af5d9&hash=adfa57b2fd310216ff490b204ed1d680c1fb583c9cba127d069878ec5447e55d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S209592732200319X&tid=spdf-1faff43c-473b-4ca3-a035-baab14881d65&sid=4bca9d3066eaf6477e2b7e80d12174616429gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d0a5a02045250075b&rr=8bc61b4fedbc847f&cc=cn
   abstract: >
     
+- guo2022PNAS:
+  type: article
+  author: Lei Liu, Wen Xu, Xiankai Lu, Buqing Zhong, <strong>Yixin Guo</strong>, Xiao Lu, Yuanhong Zhao, Wei He, Songhan Wang, Xiuying Zhang, Xuejun Liu,  Peter Vitousek
+  title: Exploring global changes in agricultural ammonia emissions and their contribution to nitrogen deposition since 1980
+  year: 2022
+  volume: 119
+  pages: e2121998119
+  url: https://www.pnas.org/doi/10.1073/pnas.2121998119
+  journal: Proceedings of the National Academy of Sciences
+  pdf: https://www.pnas.org/doi/reader/10.1073/pnas.2121998119
+  abstract: >
+    Global gains in food production over the past decades have been associated with substantial agricultural nitrogen overuse and ammonia emissions, which have caused excessive nitrogen deposition and subsequent damage to the ecosystem health. However, it is unclear which crops or animals have high ammonia emission potential, how these emissions affect the temporal and spatial patterns of nitrogen deposition, and where to target future abatement. Here, we develop a long-term agricultural ammonia emission dataset in nearly recent four decades (1980–2018) and link it with a chemical transport model for an integrated assessment of global nitrogen deposition patterns. We found global agricultural ammonia emissions increased by 78% from 1980 and 2018, in which cropland ammonia emissions increased by 128%, and livestock ammonia emissions increased by 45%. Our analyses demonstrated that three crops (wheat, maize, and rice) and four animals (cattle, chicken, goats, and pigs) accounted for over 70% total ammonia emissions. Global reduced nitrogen deposition increased by 72% between 1980 and 2018 and would account for a larger part of total nitrogen deposition due to the lack of ammonia regulations. Three countries (China, India, and the United States) accounted for 47% of global ammonia emissions, and had substantial nitrogen fertilizer overuse. Nitrogen deposition caused by nitrogen overuse accounted for 10 to 20% of total nitrogen deposition in hotspot regions including China, India, and the United States. Future progress toward reducing nitrogen deposition will be increasingly difficult without reducing agricultural ammonia emissions.
+
+- guo2022onearth:
+  type: article
+  author: <strong>Yixin Guo</strong>,Pan He,Tim D. Searchinger,Youfan Chen,Marco Springmann,Mi Zhou,Xin Zhang,Lin Zhang,Denise L. Mauzerall
+  title: Environmental and human health trade-offs in potential Chinese dietary shifts
+  year: 2022
+  volume: 5
+  pages: 268 - 282
+  url: https://doi.org/10.1016/j.oneear.2022.02.002
+  journal: One Earth
+  pdf: https://pdf.sciencedirectassets.com/321112/1-s2.0-S2590332221X00048/1-s2.0-S2590332222000872/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCQ4t0thxnOsapVGKM%2B0scERERDyVaDorp%2FRrFy4qbjcAIhANNUPtJXCpbkMMgLo%2BjT%2FB3sMj3KKcjWoj974fHLoFs7KrwFCKb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgyZTq%2BgVpV4mMwJdEMqkAU7LdfYW%2FdXgpUa0dwS06OkYA5GOcYNILLGx2pxfJ%2Bs5vesMrgz5cYqsLBn7IVuIUPzSkgoMO27FS%2F8K8%2F4fkdEQcF8k%2B6ZUdcGHLljp5%2BrJkM60yD%2FnuuXjIL7tS8jIvsVn7nh0gEy12PXzhwt7nzJNQ%2BDCDsduEPmw6aop1gkib692rI6CE8xjqxqJAMlYy3j5QVeFx3fAGz%2F%2FmZmxPpaMZ2NdbC9AAizvYZOUQdhgDyf%2B8JowCwVZvAAkBQIFBaWrCdUyp99iGQJ2iHdcHjrVDs0tzRpoi9TfHUp8wniRMUFl%2B6BLPxC9jPrwhkDf0FlkJ1Tnca%2FTF7F1n1c24Gb3%2BMNwr0CKI2XaCtPDpsZObj5i44M5POY7xwFHDPWgwjiUE7FusUnwcWoJttrpFT1anuP7IANB9Z4FHP%2BQfMFDNzFc4khh8JrXVEbMvbqwUokp1cXqwtQ7kv1pM1mFCdH%2Bjv%2FsJv%2FRjOMmwRiz3JlQzrhsCZDGxWEYmWR7%2B%2FvQinF5KAvfl1UeOZZ0giSCg1ljSG7MAmBqbVJQnc8M6wZydNcG7g7M95O0GHfRElWjNGnDXxaWm3J8SrPA5elWc8AKfRKw1YcPgZOqExeYD510%2FuNv0IhHvJgLinewTD1tozmTOzaaBMJj9n7kCc4k4C8U5zMgEzsIoHPH69DvlaUu9iaujHjsaOHkBjsG%2F5gCtbv71TvrVk5EROdpJcPqfVCeyRtUXZnJww0rfINiUFQqDAd%2B5Yt4ZTI3HyaHEwA7wJTYXa0O3h00MUvH0NGs%2BN90kva%2FtCgWATda7FDhihiucvryx%2FPOtA2I4JiiMojyRJEcRCE7L5LBzkUwTrYkS9jQg4BTifzPrk4Zz2BGvM32TDI5Na2BjqwAWOfswiQ%2BIjI6FKMnxgVYwHZiGsG%2FxsrF2SvM56sWZfudrswpAA0uOsZir2dZ8noiXCIhW705%2B2A1Fol347YuzjEwJAQ8D1hx8Im6QN9hy0gcIrS%2BfPGeMTVJ6iitnPkjmhfp%2BJJZdDJZhHLNJnyeMAMuI2jJ%2F8blI0bkKvnNQYqFU7JvuRmltv8V5e2LzGfTGgs1oyOME2N8J5MqoO4ssJecvw93z5NQGEEBj5%2Bvql5&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240902T135217Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6MML6EL3%2F20240902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d0644d742274ca2a479db69dcd02bf6aa07f453128a3854dd97d54980124075b&hash=31ae014018b46dad0da77e33d768a738eed83d35784cf1124a4413e68c323ad0&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2590332222000872&tid=spdf-7be6266e-f57d-4bec-8db5-bd9f0f8465e0&sid=08b941518f1db941c83b9db7a36eb167e931gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d0a5a02040007040c&rr=8bcdfac9ff23258d&cc=cn
+  abstract: >
+    Dietary shifts from staples toward meats, fruits, and vegetables increase environmental impacts. Excessive red meat intake and micro-nutrient deficiencies also raise health concerns. Previous research examined environmental and health consequences of alternative diets but overlooked impacts on air pollution and land use change. Here we examine implications of four potential Chinese dietary shifts on ammonia and particulate matter (PM2.5) air pollution, greenhouse gas (GHG) emissions, carbon storage loss associated with land-use change, water use, and human health. We show that a diet that replaces red meat with soy benefits the environment and avoids 57,000 PM2.5-related premature deaths annually. Dietary health benefits, however, appear larger with adoption of the Chinese Dietary Guideline (CDG) and EAT-Lancet diets, which prevent over one million premature deaths annually. However, both diets increase water use and GHGs. CDG also increases land use change, but EAT-Lancet reduces it by cutting dairy and red meat. Complex benefits and trade-offs of dietary shifts emphasize the need for further improvements in agricultural management to enable larger health-environment co-benefits.
+
+
+- guo2021nc:
+  type: article
+  author: Rong Ma, Ke Li, <strong>Yixin Guo</strong>, Bo Zhang, Xueli Zhao, Soeren Linder, ChengHe Guan, Guoqian Chen, Yujie Gan , Jing Meng
+  title: Mitigation potential of global ammonia emissions and related health impacts in the trade network
+  year: 2021
+  volume: 12
+  pages: 6308
+  url: https://www.nature.com/articles/s41467-021-25854-3
+  journal: Nature communications
+  pdf: https://www.nature.com/articles/s41467-021-25854-3.pdf
+  abstract: >
+    Ammonia (NH3) emissions, mainly from agricultural sources, generate substantial health damage due to the adverse effects on air quality. NH3 emission reduction strategies are still far from being effective. In particular, a growing trade network in this era of globalization offers untapped emission mitigation potential that has been overlooked. Here we show that about one-fourth of global agricultural NH3 emissions in 2012 are trade-related. Globally they induce 61 thousand PM2.5-related premature mortalities, with 25 thousand deaths associated with crop cultivation and 36 thousand deaths with livestock production. The trade-related health damage network is regionally integrated and can be characterized by three trading communities. Thus, effective cooperation within trade-dependent communities will achieve considerable NH3 emission reductions allowed by technological advancements and trade structure adjustments. Identification of regional communities from network analysis offers a new perspective on addressing NH3 emissions and is also applicable to agricultural greenhouse gas emissions mitigation.
+
+
+
+
+
 
 
 
