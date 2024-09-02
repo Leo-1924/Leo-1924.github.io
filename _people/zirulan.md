@@ -1,7 +1,7 @@
 ---
 title: Ziru Lan
 anchor_id: people-zirulan
-image: /images/zhengwei.jpg
+image: /images/lanziru.png
 image_url: people.html#people-zirulan
 language: en
 order: 2
@@ -9,13 +9,17 @@ actions:
   - email:
     title: Email
     icon: solid fa-envelope-square
-    url: mailto:zwei002@connect.hkust-gz.edu.cn?Subject=Hello
+    url: mailto:lanziru@foxmail.com
   # - github:
   #   title: GitHub
   #   icon: brands fa-github-square
   #   url: https://github.com/zwei961120
+    - googlescholar:
+    title: Google Scholar
+    icon: ai ai-google-scholar-square
+    url: https://scholar.google.com/citations?user=iJwWddIAAAAJ
 ---
 
-Ziru Lan joined the group as a PhD student in Sep 2022. She is currently working on ocean boundary layer turbulence in coastal environment under various complex forcing and background conditions using large eddy simulations. Before joining the group, Zheng received a Master's degree in Marine Science from the [School of Oceanography](https://soo.sjtu.edu.cn/en/){:target="_blank"}, [Shanghai Jiao Tong Universiy](https://en.sjtu.edu.cn){:target="_blank"}, working with [Prof. Zhaoru Zhang](https://soo.sjtu.edu.cn/en/szTeachers/3589.html) on the air-ice-sea interaction in Antarctic polynyas. He received his Bachelor’s degree in Petroleum Engineering from the [School of Petroleum Engineering](http://pe.upc.edu.cn/){:target="_blank"}, [China University of Petroleum (East China)](https://english.upc.edu.cn){:target="_blank"}.
+LAN joined the group as a PhD student in Sep 2024. Before joining the group, LAN received a Master’s degree in Environmental Science and Engineering and a Bachelor’s degree in Environmental Engineering from the Minzu University of China, working with Prof. LIN Weili to study the variation characteristics and influencing factors of atmospheric ammonia.
 
-Check out Zheng's personal website [here](https://zwei961120.github.io/){:target="_blank"}.
+Check out Ziru’s Google Scholar [here](https://scholar.google.com/citations?user=iJwWddIAAAAJ){:target="_blank"}.
