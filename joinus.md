@@ -8,7 +8,7 @@ layout: default
 
 
 
-<h4>人才需求</h4>
+<h3>人才需求</h3>
 <!-- 换行 -->
 GEOS-Chem等大气化学传输模型搭建和研究经验，感兴趣活性氮-空气质量相关、融合大气化学与多学科方法跨学科研究
 <br>
@@ -20,7 +20,7 @@ GEOS-Chem等大气化学传输模型搭建和研究经验，感兴趣活性氮-�
 <br>
 虽不具有上述特定研究技能但综合能力出色
 
-<h4>潜在研究课题</h4>
+<h3>潜在研究课题</h3>
 <!-- 换行 -->
 食物系统生产、供应和消费端策略减缓氮污染的潜力
 <br>
@@ -34,7 +34,7 @@ GEOS-Chem等大气化学传输模型搭建和研究经验，感兴趣活性氮-�
 <br>
 ......成功申请的同学可以与PI共同设计自己的研究课题
 
-<h4>申请方式</h4>
+<h3>申请方式</h3>
 <!-- 换行 -->
 Prospective students interested in joining the group are encouraged to check out our postgraduate programs.
 
