@@ -14,7 +14,7 @@ actions:
   #   title: GitHub
   #   icon: brands fa-github-square
   #   url: https://github.com/zwei961120
-    - googlescholar:
+  - googlescholar:
     title: Google Scholar
     icon: ai ai-google-scholar-square
     url: https://scholar.google.com/citations?user=iJwWddIAAAAJ
