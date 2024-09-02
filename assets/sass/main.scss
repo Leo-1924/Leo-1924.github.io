@@ -233,7 +233,7 @@
 			font-family: 'Open Sans Condensed', sans-serif;
 			font-weight: 700;
 			text-transform: uppercase;
-			color: #c1cac5;
+			color: #3D2CFF;
 		}
 	}
 
@@ -380,7 +380,7 @@
 		}
 
 		&.alt {
-			background: #c1cac5;
+			background: #3D2CFF;
 
 			&:hover {
 				background: #ccd5d0;
@@ -478,7 +478,7 @@
 				height: 48px;
 				border-radius: 6px;
 				outline: 0;
-				background: #c1cac5;
+				background: #3D2CFF;
 				text-align: center;
 
 				&:before {
@@ -548,7 +548,7 @@
 					@include vendor('transition', 'background-color .2s ease-in-out');
 					display: block;
 					text-align: center;
-					background: #c1cac5;
+					background: #3D2CFF;
 					border-radius: 100%;
 					width: 2.25em;
 					height: 2.25em;
@@ -872,7 +872,7 @@
 
 			p {
 				display: inline;
-				color: #C1CAC5;
+				color: #3D2CFF;
 			}
 		}
 	}
@@ -938,14 +938,14 @@
 
 			&:hover {
 				a, span {
-					background: #C1CAC5;
+					background: #3D2CFF;
 					color: #fff;
 				}
 			}
 
 			&.active {
 				a, span {
-					background: #C1CAC5;
+					background: #3D2CFF;
 					color: #fff;
 				}
 			}
@@ -1143,7 +1143,7 @@
 			margin: 0;
 
 			li {
-				border-color: #C1CAC5;
+				border-color: #3D2CFF;
 				border-width: 2px;
 				line-height: 1em;
 			}
