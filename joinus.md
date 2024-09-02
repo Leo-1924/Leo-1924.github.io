@@ -3,6 +3,17 @@ title: Join us
 language: en
 tab: joinus
 layout: default
+sections:
+  - section1:
+    title: 人才需求
+    data: conferences
+  # - section2:
+  #   title: Seminar talks
+  #   data: seminars
+  # - section3:
+  #   title: Other presentations
+  #   data: othertalks
+---
 ---
 
 Prospective students interested in joining the group are encouraged to check out our postgraduate programs.
