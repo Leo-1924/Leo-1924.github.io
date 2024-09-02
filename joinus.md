@@ -6,7 +6,7 @@ layout: default
 sections:
   - section1:
     title: 人才需求
-    data: conferences
+    data: peoplewewant
   # - section2:
   #   title: Seminar talks
   #   data: seminars
