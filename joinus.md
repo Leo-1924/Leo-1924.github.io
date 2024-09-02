@@ -11,3 +11,18 @@ Prospective students interested in joining the group are encouraged to check out
 
 Postdoctoral researcher positions are also available. Please [contact Yixin](mailto:{{ site.email }}?Subject=Hello) for more information.
 
+
+<strong>人才需求</strong>
+GEOS-Chem等大气化学传输模型搭建和研究经验，感兴趣活性氮-空气质量相关、融合大气化学与多学科方法跨学科研究
+均衡经济模型或贸易矩阵或环境数据统计研究经验，感兴趣食物系统绿色发展政策与策略
+大气排放清单或模型或人类活动-自然耦合模型开发经验
+农学及统计分析研究经验。
+虽不具有上述特定研究技能但综合能力出色
+
+<strong>潜在研究课题</strong>
+食物系统生产、供应和消费端策略减缓氮污染的潜力
+农业所面临的极端气候风险应对
+农业排放清单与过程模型构建
+环境经济模型与环境评估模型的弱耦合及原创模型开发
+利用机器学习方法改善农业氨排放估算和大气氨-铵浓度模拟
+......成功申请的同学可以与PI共同设计自己的研究课题
