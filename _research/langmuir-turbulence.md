@@ -2,7 +2,7 @@
 title: 方向一：食物系统策略减缓活性氮污染和环境健康影响的潜力
 anchor_id: direction-1
 image: /images/direction1.png
-image_url: ResearchDirectionOne
+image_url: Rpublications.html
 language: en
 order: 1
 ---
