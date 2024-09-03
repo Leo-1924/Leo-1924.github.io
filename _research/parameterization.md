@@ -2,7 +2,7 @@
 title: 方向二：活性氮排放、大气物理化学、沉降过程的量化评估
 anchor_id: direction-2
 image: /images/direction2.png
-image_url: ResearchDirectionTwo
+image_url: publications.html
 language: en
 order: 2
 ---
