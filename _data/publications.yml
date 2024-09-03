@@ -132,11 +132,57 @@
     Ammonia (NH3) emissions, mainly from agricultural sources, generate substantial health damage due to the adverse effects on air quality. NH3 emission reduction strategies are still far from being effective. In particular, a growing trade network in this era of globalization offers untapped emission mitigation potential that has been overlooked. Here we show that about one-fourth of global agricultural NH3 emissions in 2012 are trade-related. Globally they induce 61 thousand PM2.5-related premature mortalities, with 25 thousand deaths associated with crop cultivation and 36 thousand deaths with livestock production. The trade-related health damage network is regionally integrated and can be characterized by three trading communities. Thus, effective cooperation within trade-dependent communities will achieve considerable NH3 emission reductions allowed by technological advancements and trade structure adjustments. Identification of regional communities from network analysis offers a new perspective on addressing NH3 emissions and is also applicable to agricultural greenhouse gas emissions mitigation.
 
 
+- guo2021ERL:
+  type: article
+  author: Youfan Chen, Lin Zhang, Daven K Henze, Yuanhong Zhao, Xiao Lu, Wilfried Winiwarter, <strong>Yixin Guo</strong>, Xuejun Liu, Zhang Wen, Yuepeng Pan, Yu Song
+  title: Interannual variation of reactive nitrogen emissions and their impacts on PM2. 5 air pollution in China during 2005--2015
+  year: 2021
+  volume: 16
+  pages: 125004
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/ac3695
+  journal:  Environmental Research Letters
+  pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ac3695/pdf
+  abstract: >
+    Emissions of reactive nitrogen as ammonia (NH3) and nitrogen oxides (NOx), together with sulfur dioxide (SO2), contribute to formation of secondary PM2.5 in the atmosphere. Satellite observations of atmospheric NH3, NO2, and SO2 levels since the 2000s provide valuable information to constrain the spatial and temporal variability of their emissions. Here we present a bottom-up Chinese NH3 emission inventory combined with top-down estimates of Chinese NOx and SO2 emissions using ozone monitoring instrument satellite observations, aiming to quantify the interannual variations of reactive nitrogen emissions in China and their contributions to PM2.5 air pollution over 2005–2015. We find small interannual changes in the total Chinese anthropogenic NH3 emissions during 2005–2016 (12.0–13.3 Tg with over 85% from agricultural sources), but large interannual change in top-down Chinese NOx and SO2 emissions. Chinese NOx emissions peaked around 2011 and declined by 22% during 2011–2015, and Chinese SO2 emissions declined by 55% in 2015 relative to that in 2007. Using the GEOS-Chem chemical transport model simulations, we find that rising atmospheric NH3 levels in eastern China since 2011 as observed by infrared atmospheric sounding interferometer and atmospheric infrared sounder satellites are mainly driven by rapid reductions in SO2 emissions. The 2011–2015 Chinese NOx emission reductions have decreased regional annual mean PM2.5 by 2.3–3.8 μg m−3. Interannual PM2.5 changes due to NH3 emission changes are relatively small, but further control of agricultural NH3 emissions can be effective for PM2.5 pollution mitigation in eastern China.
+
+- guo2021Nature Food:
+  type: article
+  author: Zitong Liu, Hao Ying, Mingyou Chen, Jie Bai, Yanfang Xue, Yulong Yin, William D. Batchelor, Yi Yang, Zhaohai Bai, Mingxi Du, <strong>Yixin Guo</strong>, Qingsong Zhang, Zhenling Cui, Fusuo Zhang , Zhengxia Dou 
+  title: Optimization of China's maize and soy production can ensure feed sufficiency at lower nitrogen and carbon footprints
+  year: 2021
+  volume: 2
+  pages: 426 - 433
+  url: https://www.nature.com/articles/s43016-021-00300-1
+  journal:  Nature Food
+  pdf: https://www.nature.com/articles/s43016-021-00300-1.pdf
+  abstract: >
+    China purchases around 66% of the soy that is traded internationally. This strains the global food supply and contributes to greenhouse gas emissions. Here we show that optimizing the maize and soy production of China can improve its self-sufficiency and also alleviate adverse environmental effects. Using data from more than 1,800 counties in China, we estimate the area-weighted yield potential (Ypot) and yield gaps, setting the attainable yield (Yatt) as the yield achieved by the top 10% of producers per county. We also map out county-by-county acreage allocation and calculate the attainable production capacity according to a set of sustainability criteria. Under optimized conditions, China would be able to produce all the maize and 45% of the soy needed by 2035—while reducing nitrogen fertilizer use by 26%, reactive nitrogen loss by 28% and greenhouse gas emissions by 19%—with the same acreage as 2017, our reference year.
 
 
-
-
-
+- guo2020Nature Food:
+  type: article
+  author: <strong>Yixin Guo</strong>, Youfan Chen, Timothy D. Searchinger, Mi Zhou, Da Pan, Junnan Yang, Liang Wu, Zhenling Cui, Weifeng Zhang, Fusuo Zhang, Lin Ma, Yele Sun, Mark A. Zondlo, Lin Zhang , Denise L. Mauzerall 
+  title: Air quality, nitrogen use efficiency and food security in China are improved by cost-effective agricultural nitrogen management
+  year: 2020
+  volume: 1
+  pages: 648 - 658
+  url: https://www.nature.com/articles/s43016-020-00162-z
+  journal:  Nature Food
+  pdf: https://www.nature.com/articles/s43016-020-00162-z.pdf
+  abstract: >
+    China's gains in food production over the past four decades have been associated with substantial agricultural nitrogen losses, which contribute to air and water pollution, greenhouse gas emissions and damage to human health. Here, we explore the potential to improve agricultural production practices that simultaneously increase yields while addressing these environmental challenges. We link agronomic research with air quality modelling for an integrated assessment of four improved nitrogen management strategies: improved farm management practices with nitrogen use reductions; machine deep placement of fertilizer; enhanced-efficiency fertilizer use; and improved manure management. We find that simultaneous implementation of the four strategies provides the largest benefits, which include: reductions in PM2.5 concentrations and associated premature deaths; increases in grain yields and grain nitrogen use efficiency; reductions in NO3− leaching and runoff and greenhouse gas emissions. Total benefits of US$30 billion per year exceed the US$18 billion per year in costs. Our findings indicate that policies that improve farmers’ agricultural nitrogen management in China will improve both food security and public health while addressing multiple environmental challenges. Similar increases in attention on agricultural policy around the world are likely to provide large benefits in food security, environmental integrity and public health.
+    
+- guo2017EST:
+  type: article
+  author: <strong>Yixin Guo</strong>, Junfeng Liu, Denise L. Mauzerall, Xiaoyuan Li, Larry W. Horowitz, Wei Tao, Shu Tao
+  year: 2017
+  volume: 51
+  pages: 5017 - 5025
+  url: https://pubs.acs.org/doi/10.1021/acs.est.6b05664
+  journal:  Environmental Science & Technology
+  pdf: https://pubs.acs.org/doi/epdf/10.1021/acs.est.6b05664?ref=article_openPDF
+  abstract: >
+    Ground-level ozone (O3), harmful to most living things, is produced from both domestic and foreign emissions of anthropogenic precursors. Previous estimates of the linkage from distant sources rely on the sensitivity approach (i.e., modeling the change of ozone concentrations that result from modifying precursor emissions) as well as the tagging approach (i.e., tracking ozone produced from specific O3 precursors emitted from one region). Here, for the first time, we tag all O3 precursors (i.e., nitrogen oxides (NOx), carbon monoxide (CO), and volatile organic compounds (VOCs)) from East Asia and explicitly track their physicochemical evolution without perturbing the nonlinear O3 chemistry. We show that, even in summer, when intercontinental influence on ozone has typically been found to be weakest, nearly 3 parts per billion by volume (ppbv) seasonal average surface O3 over North America can be attributed to East Asian anthropogenic emissions, compared with 0.7 ppbv using the sensitivity approach and 0.5 ppbv by tagging reactive nitrogen oxides. Considering the acute effects of O3 exposure, approximately 670 cardiovascular and 300 respiratory premature mortalities within North America could be attributed to East Asia. CO and longer-lived VOCs, largely overlooked in previous studies, extend the influence of regional ozone precursors emissions and, thus, greatly enhance O3 attribution to source region.
 
 
 # - shao2022grl:
@@ -146,32 +192,4 @@
 #   title: Saildrone-observed submesoscale air-sea turbulent heat and momentum fluxes in the Southern Ocean
 #   journal: Geophysical Research Letters
 #   note: Submitted
-
-- yang2016clidyn:
-  type: article
-  author: Haijun Yang, Kun Wang, Haijin Dai, Yuxing Wang, and <strong>Qing Li</strong>
-  year: 2016
-  url: http://dx.doi.org/10.1007/s00382-015-2774-z
-  title: Wind effect on the Atlantic meridional overturning circulation via sea ice
-                          and vertical diffusion
-  journal: Climate Dynamics
-  volume: 46
-  pages: 3387&#x2013;3403
-  pdf: https://link.springer.com/content/pdf/10.1007/s00382-015-2774-z.pdf
-  abstract: >
-    Effects of wind and fresh water on the Atlantic meridional overturning circulation (AMOC) are investigated using a fully coupled climate model. The AMOC can change significantly when perturbed by either wind stress or freshwater flux in the North Atlantic. This study focuses on wind stress effect. Our model results show that the wind forcing is crucial in maintaining the AMOC. Reducing wind forcing over the ocean can cause immediately weakening of the vertical salinity diffusion and convection in the mid-high latitudes Atlantic, resulting in an enhancement of vertical salinity stratification that restrains the deep water formation there, triggering a slowdown of the thermohaline circulation. As the thermohaline circulation weakens, the sea ice expands southward and melts, providing the upper ocean with fresh water that weakens the thermohaline circulation further. The wind perturbation experiments suggest a positive feedback between sea-ice and thermohaline circulation strength, which can eventually result in a complete shutdown of the AMOC. This study also suggests that sea-ice variability may be also important to the natural AMOC variability on decadal and longer timescales.
-
-
-- yang2015clidyn:
-  type: article
-  author: Haijun Yang, <strong>Qing Li</strong>, Kun Wang, Yu Sun, and Daoxun Sun
-  year: 2015
-  url: http://dx.doi.org/10.1007/s00382-014-2380-5
-  title: Decomposing the meridional heat transport in the climate system
-  journal: Climate Dynamics
-  volume: 44
-  pages: 2751&#x2013;2768
-  pdf: https://link.springer.com/content/pdf/10.1007/s00382-014-2380-5.pdf
-  abstract: >
-    The meridional heat transport (MHT) in the climate system is investigated using a state-of-the-art coupled climate model (CESM1.0). This work decomposes the MHT and studies their physics in detail. The meridional ocean heat transport (OHT) can be decomposed into the contributions from the Euler mean circulation, bolus circulation, sub-mesoscale circulation and dissipation. The Euler mean heat transport dominates the total OHT in most latitudes, except that in the Southern Ocean (40–50°S) where the OHT is determined by the eddy-induced circulation and dissipation. In the Indo-Pacific the OHT is fulfilled by the wind-driven circulation, which dominates the total global OHT in the tropics. In the Atlantic the OHT is carried by both the wind-driven circulation and the thermohaline circulation, and the latter dominates the total OHT in the mid-high latitudes. The meridional atmosphere heat transport consists of the dry static energy (DSE) and latent energy (LE) transport. In the tropics the LE transport is equatorward and compensates partially the poleward DSE transport. In the extratropics, the LE and DSE are poleward and reinforce one another, both of which are dominated by the eddy components. The LE transport can be considered as the "joint air–sea mode" since the ocean controls the moisture supply. It can be also precisely obtained from the evaporation minus precipitation over the ocean and thus this work quantifies the individual ocean basin contributions to the LE transport.
 
