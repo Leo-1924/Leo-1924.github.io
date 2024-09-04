@@ -1,5 +1,5 @@
 ---
-title: 方向二：活性氮排放、大气物理化学、沉降过程的量化评估
+title: Direction 2 
 anchor_id: direction-2
 image: /images/direction2.png
 image_url: publications.html
@@ -7,5 +7,7 @@ language: en
 order: 2
 ---
 
-活性氮排放、大气物理化学、沉降过程的量化评估[Xu, Lu, Guo* et al. ES&T 2023; Guo et al. ES&T 2017；One Earth under review]
+Quantitative assessment of reactive nitrogen emissions, atmospheric physicochemical processes, and deposition.
+<br>
+[Xu, Lu, Guo* et al. ES&T 2023; Guo et al. ES&T 2017；One Earth under review]
 
