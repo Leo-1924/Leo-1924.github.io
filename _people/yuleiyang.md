@@ -1,5 +1,5 @@
 ---
-title: Yulei Yang
+title: Yulei Yang (杨宇雷)
 anchor_id: people-yuleiyang
 image: /images/x.jpg
 image_url: people.html#people-yuleiyang

@@ -1,5 +1,5 @@
 ---
-title: Ziru Lan
+title: Ziru Lan (兰子濡)
 anchor_id: people-zirulan
 image: /images/lanziru.png
 image_url: people.html#people-zirulan

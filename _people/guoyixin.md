@@ -1,5 +1,5 @@
 ---
-title: Yixin Guo
+title: Yixin Guo (郭怡鑫)
 anchor_id: people-yixinguo
 image: /images/yixinguo.jpg
 image_url: people.html#people-yixinguo

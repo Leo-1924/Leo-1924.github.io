@@ -42,3 +42,5 @@ Prospective students interested in joining the group are encouraged to check out
 - [2024/25 MPhil and PhD programs in Earth, Ocean and Atmospheric Sciences](https://fytgs.hkust-gz.edu.cn/programs/2024-25/function-hub/earth-ocean-and-atmospheric-sciences-3){:target="_blank"}.
 
 Postdoctoral researcher positions are also available. Please [contact Yixin](mailto:{{ site.email }}?Subject=Hello) for more information.
+<br>
+Prof. Guo is also interested in advising/co-advising undergraduate thesis for students who are interested in and have high potentials in pursing EOAS MPhil and PhD programs.
