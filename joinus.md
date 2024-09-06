@@ -43,4 +43,5 @@ Prospective students interested in joining the group are encouraged to check out
 
 Postdoctoral researcher positions are also available. Please [contact Yixin](mailto:{{ site.email }}?Subject=Hello) for more information.
 <br>
+<br>
 Prof. Guo is also interested in advising/co-advising undergraduate thesis for students who are interested in and have high potentials in pursing EOAS MPhil and PhD programs.
