@@ -12,11 +12,15 @@ layout: default
 <!-- 换行 -->
 Experience in building and researching atmospheric chemistry transport models like GEOS-Chem, with a focus on reactive nitrogen species and air quality, integrating atmospheric chemistry with interdisciplinary approaches.
 <br>
+<br>
 Experience with equilibrium economic models, trade matrices, or environmental data statistics, with an interest in green development policies and strategies for food systems.
+<br>
 <br>
 Experience in developing atmospheric emission inventories, models, or anthropogenic activity-nature coupled models.
 <br>
+<br>
 Research experience in agronomy and statistical analysis.
+<br>
 <br>
 Lacked specific research skills mentioned above but possesses outstanding overall capabilities.
 
@@ -24,13 +28,18 @@ Lacked specific research skills mentioned above but possesses outstanding overal
 <!-- 换行 -->
 The potential of strategies at the production, supply, and consumption of food systems to mitigate nitrogen pollution.
 <br>
+<br>
 Addressing extreme climate risks facing by agriculture.
+<br>
 <br>
 Construction of agricultural emission inventories and process models.
 <br>
+<br>
 Weak coupled model of environmental economic and environmental assessment, along with the development of original models.
 <br>
+<br>
 Using machine learning methods to improve estimates of agricultural ammonia emissions and simulations of atmospheric ammonia and ammonium concentrations.
+<br>
 <br>
 Successful applicants can collaborate with the PI to design their own research projects.
 
