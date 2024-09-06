@@ -20,6 +20,6 @@ actions:
   #   url: https://orcid.org/0009-0006-7248-4245
 ---
 
-Hi, I’m Zihan Niu, a RA in Guo’s lab. I’m interested in carbon, nitrogen cycle and sustainable agriculture. I’m a Swiftie and a Gym enthusiast, very welcome to join me!
+Hi, I’m Zihan Niu, a RA in Guo’s lab. I’m interested in carbon, nitrogen cycle and sustainable agriculture. I got my bachelor‘s degree in Agronomy at South China Agricultural University and my master’s degree in Environmental Resource Management at University College Dublin, Ireland. I’m a Swiftie and a Gym enthusiast, very welcome to join me, if you’re interested in them 
 
 <!-- Check out Shihao's personal page [here](https://shawnzou717.github.io). -->
