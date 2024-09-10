@@ -1,5 +1,5 @@
 ---
-title: Turning points of NH3 vs. NOx emission controls for PM2.5 mitigation at different regions
+title: Ambitious nitrogen abatement is required to mitigate future global PM2.5 air pollution towards the World Health Organization targets
 anchor_id: direction-5
 image: /images/direction5.png
 image_url: publications.html
