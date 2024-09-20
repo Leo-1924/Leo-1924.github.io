@@ -9,7 +9,7 @@ actions:
   - email:
     title: Email
     icon: solid fa-envelope-square
-    url: mailto:xjiang578@connect.hkust-gz.edu.cn?Subject=Hello
+    url: mailto:yyang605@connect.hkust-gz.edu.cn?Subject=Hello
   # - orcid:
   #   title: ORCID
   #   icon: ai ai-orcid-square
