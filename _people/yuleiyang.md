@@ -1,7 +1,7 @@
 ---
 title: Yulei Yang (杨宇雷)
 anchor_id: people-yuleiyang
-image: /images/x.jpg
+image: /images/yuleiyang.jpg
 image_url: people.html#people-yuleiyang
 language: en
 order: 4
@@ -16,6 +16,6 @@ actions:
   #   url: https://orcid.org/0009-0007-8797-2871
 ---
 
-<!-- Xinghao joined the group as a PhD student in Sep 2023. He is currently working on the interaction between ocean surface boundary layer turbulence and submesoscale flows. Before joining the group, Xinghao obtained a Master's degree in Fluid Machinery and Engineering from the [School of Energy and Power Engineering](http://epe.xjtu.edu.cn) at [Xi'an Jiaotong University](http://www.xjtu.edu.cn), working with [Prof. Jiazhong Zhang](https://gr.xjtu.edu.cn/web/jzzhang/1) on studying the interaction between shock waves and boundary layers in supersonic flow. Xinghao also holds a Bachelor's degree in Energy and Power Engineering from the same institution.
+"I am a third cohort MPhil student at HKUST (GZ). My research interests lie primarily in biogeochemistry and sustainable agriculture. My motivation for pursuing research comes from the understanding that my work can benefit future generations. During my undergraduate studies, I conducted research on nutrient leaching during flood events, utilizing stable isotopes and time-series analysis."
 
-Check out Xinghao’s personal website [here](https://xinghaoj.github.io). -->
+<!-- Check out Xinghao’s personal website [here](https://xinghaoj.github.io). --> -->
