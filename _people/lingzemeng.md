@@ -10,7 +10,6 @@ actions:
     title: Email
     icon: solid fa-envelope-square
     url: mailto:lmeng830@connect.hkust-gz.edu.cn?Subject=Hello
-    
   - orcid:
      title: ORCID
      icon: ai ai-orcid-square
